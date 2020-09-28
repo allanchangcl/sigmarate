@@ -10,8 +10,11 @@ Thus, when monthly payment are rounded, the interest rate needs to be recalculat
 ## Reverse Calculation Interest Rate
 
 Calculate interest with:
+
 Principal <- Original Loan
+
 Payment <- Monthly Payment Amount
+
 Term <- Total number of payments
 
 ## Application Architecture
