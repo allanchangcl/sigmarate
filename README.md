@@ -1,6 +1,6 @@
 # Loan Interest Calculation
 
-## Challenge
+## Purpose
 
 To calculate interest rate after rounding monthly payments in amortization schedule
 Reason:
