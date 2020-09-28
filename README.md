@@ -27,7 +27,7 @@ Using Python for its maths library, functions for approximation numerical analys
 
 ## URL
 
-### https://sigmarate.clchang.net[Loan Interest Calculator](https://sigmarate.clchang.net)
+### Loan Interest Calculator: [sigmarate.clchang.net](https://sigmarate.clchang.net)
 
 ## Tags
 
