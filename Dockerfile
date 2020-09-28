@@ -5,11 +5,12 @@ RUN useradd --user-group --create-home --shell /bin/false nodejs &&\
 
 ENV HOME=/home/nodejs
 
-ADD . $HOME/postlaju
+ADD . $HOME/sigmarateexpress
 RUN chown -R nodejs:nodejs $HOME/*
+# COPY --chown=nodejs:nodejs . $HOME/
 
 USER nodejs
-WORKDIR $HOME/postlaju
+WORKDIR $HOME/sigmarateexpress
 RUN npm install
 
 CMD ["node", "./bin/www"]

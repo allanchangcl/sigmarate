@@ -9,7 +9,7 @@ const layout = {
 }
 
 const tailLayout = {
-  wrapperCol: { offset: 8, span: 16 },
+  // wrapperCol: { offset: 8, span: 16 },
 }
 
 // const [interest, setInterest] = useState()
@@ -55,7 +55,8 @@ const CalcInterestForm = () => {
       style={{ minHeight: "60vh" }}
     >
       <Col>
-        <Card title="Find Interest Rate" style={{ width: 640 }}>
+        {/* <Card title="Find Interest Rate" style={{ width: 640 }}> */}
+        <Card title="Find Interest Rate">
           <Form
             {...layout}
             name="basic"
