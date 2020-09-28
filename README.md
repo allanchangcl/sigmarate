@@ -25,6 +25,10 @@ To serve page and provide form for user input
 Api = Python + Flask with uWSGI
 Using Python for its maths library, functions for approximation numerical analysis and floating point mathematical calculations.
 
+## URL
+
+[Loan Interest Calculator](https://sigmarate.clchang.net)
+
 ## Tags
 
 1st installment deferment
